@@ -1,0 +1,23 @@
+
+This simple project is for beginners, who need to know how to 
+use data report and data environment. this project is also a source 
+for learning simple ado operations such as add, modify, delete.
+
+ 
+
+using universal datalink file:
+
+you can connect to the database either by using connection string or by
+using universal datalink file.but you have to configure the "test.udl" file
+in order to use it. To configure, click the test.udl file. 
+
+done by :
+
+v.Ramesh babu,
+6, Amman Kovil Street,
+Venkitapuram,
+Coimbatore - 641013, India
+
+email - vrameshbabu@usa.net
+
+
